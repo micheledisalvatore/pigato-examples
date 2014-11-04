@@ -1,6 +1,6 @@
 {
   "name": "pigato-examples",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "description": "Easy to use examples for Pigato NodeJS/ZeroMQ microservices framework",
   "author": "fincluster <dev@fincluster.com> (https://fincluster.com/)",
