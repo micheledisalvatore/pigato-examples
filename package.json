@@ -1,0 +1,34 @@
+{
+  "name": "pigato-examples",
+  "version": "0.0.1",
+  "private": false,
+  "description": "Easy to use examples for Pigato NodeJS/ZeroMQ microservices framework",
+  "author": "fincluster <dev@fincluster.com> (https://fincluster.com/)",
+  "keywords": [
+    "nodejs",
+    "zmq",
+    "zeromq",
+    "0mq",
+    "request-reply",
+    "amqp",
+    "mdp",
+    "micro-services",
+	"pigato"
+  ],
+  "dependencies": {
+	"pigato": "",
+	"quants": ""
+  },
+  "engine": {
+    "node": ">=0.10"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fincluster/pigato-examples.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fincluster/pigato-examples/issues"
+  },
+  "homepage": "https://github.com/fincluster/pigato-examples"
+}
