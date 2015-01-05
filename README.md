@@ -12,9 +12,9 @@ Running the examples
 
 1) Start the broker located in the root directory
 
-2) Start the respective worker
+2) Start the respective worker and client
 
-3) Start the client
+**quants**
 
 ```
 node broker
