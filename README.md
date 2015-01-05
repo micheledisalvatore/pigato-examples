@@ -7,8 +7,7 @@ Examples:
 * yahooFinance: download stock prices from Yahoo Finance
 * quants: RCP and distributed querying to [quants.js](https://github.com/maxto/quants) (a Mathematical and Quantitative Library for Javascript and Node.js) 
 
-Running the examples
---
+#### Running the examples
 
 1) Start the broker located in the root directory
 
@@ -24,3 +23,6 @@ node quants/client
 
 If you have everything set up you should get an output similar to
 ```Monte Carlo VAR 0.02834779749288587```
+
+#### Credits
+[Fincluster](https://fincluster.com)
