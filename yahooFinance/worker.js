@@ -11,7 +11,7 @@ worker.on('error',function(err) {
 worker.on('request',function(inp, rep){
 	var url="http://ichart.finance.yahoo.com/table.csv?s=" + inp.ticker + 
 	"&a=" + inp.startDay + "&b=" + inp.startMonth+"&c=" + inp.startYear + "&d=" +
-		inp.endYear + "&e=" + inp.endMonth + "&f=" + inp.endYear + "&g=" + inp.freq + "&ignore=.csv";
+		inp.endDay + "&e=" + inp.endMonth + "&f=" + inp.endYear + "&g=" + inp.freq + "&ignore=.csv";
 
 	//console.log(url);
 	http.get(url, function(res) {
